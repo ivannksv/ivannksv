@@ -45,5 +45,5 @@
 
 ### 📫 Connect with Me
 
-* **Email:** [ivannkaraben@gmail.com](mailto:ivannkaraben@gmail.com)
+* **Email:** [ivannnkaraben@gmail.com](mailto:ivannnkaraben@gmail.com)
 * **Location:** Avellaneda, Buenos Aires, Argentina
