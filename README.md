@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Karabencsov 👋
 
-**Programming Technician** | **Computer Engineering Student** at [FIUBA](https://www.fi.uba.ar/) (Universidad de Buenos Aires) 🎓
+**Programming Technician** | **Computer Engineering Student** at [FIUBA](https://www.fi.uba.ar/) (Facultad de Ingenieria, Universidad de Buenos Aires) 🎓
 
 ---
 
